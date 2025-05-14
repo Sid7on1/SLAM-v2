@@ -1,0 +1,23 @@
+Transformer Architecture Comparison Results
+=========================================
+
+Model Parameters:
+Standard Transformer: 203,461
+SLAM v1 Transformer: 403,397
+SLAM v2 Transformer: 710,581
+DeepSeek Transformer: 261,253
+DeBERTa Transformer: 368,325
+
+Final Validation Accuracies:
+Standard Transformer: 19.50%
+SLAM v1 Transformer: 22.00%
+SLAM v2 Transformer: 21.00%
+DeepSeek Transformer: 16.00%
+DeBERTa Transformer: 19.50%
+
+Training Times:
+Standard Transformer: 9.98s
+SLAM v1 Transformer: 36.16s
+SLAM v2 Transformer: 83.53s
+DeepSeek Transformer: 51.68s
+DeBERTa Transformer: 230.07s
